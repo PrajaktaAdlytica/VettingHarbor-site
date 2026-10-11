@@ -1,0 +1,35 @@
+CONCEPT8 / VETTING HARBOR — VALIDATION EXPERIMENT
+Status: prepared, not executed. All demo records are synthetic.
+
+HYPOTHESIS
+A marketplace operator with actual listing/install access, or a procurement team owning a purchase gate, will agree to use version-specific evidence in a real decision. An independent assessor can preserve control over findings despite funding incentives.
+
+FIRST COMMITMENT
+Invite one actual marketplace and several real buyers to inspect manually prepared evidence packs for two consenting agents. Name the operator, decision owner, budget owner, review criteria and accepted evidence use before work begins. Select one of the five proposed modules for the initial pilot; keep all five as separate offer tests.
+
+STUDY PROTOCOL
+1. Record documented publisher consent and scoped sandbox/test authority. Do not use public-form uploads for private contracts, logs or secrets.
+2. Record exact versions, manifests, sources, protocol/environment and expected/observed results. Keep failed/inconclusive outcomes.
+3. Agree issuer qualifications, payer disclosure, conflict declarations, recusal, no outcome-contingent fees and challenge/correction handling.
+4. Prepare manual packs for two agents and observe both operator and procurement reviewers using them in a real workflow.
+5. Ask how the evidence affected listing/install/purchase decisions. Record actual commitment and attribution; do not count synthetic walkthroughs as demand proof.
+
+GO
+Credible marketplace distribution pilot OR procurement team formally agreeing to use the report in a purchase gate; named accepted criteria; attributable consented artifacts; independence policy established; ideally funded evaluation.
+
+STOP / REVISE
+No gatekeeper access; no agreed evidence acceptance standard; assessor independence cannot be established; evidence does not affect the purchase decision. Do not assume two-sided network effects.
+
+COMMERCIAL TESTS
+$2,500 per reviewed listing study OR $1,500/month marketplace pilot are test hypotheses. No accepted pricing or payments have been demonstrated. Discuss scope and payer conflicts explicitly; there is no active checkout.
+
+ACQUISITION
+Marketplace operators and publisher ecosystems first, via ecosystem partners. Procurement/GRC workshops second. Verify distribution access before broad acquisition.
+No ads or outreach were sent in this build. Once access and consent/form QA are established, consider the hypothetical capped LinkedIn test: $200 per arm, one emphasizing version permission delta and the other evidence expiry. This is a proposed budget, not spend authorization or an executed campaign.
+
+EVENTS / ATTRIBUTION
+landing_view, demo_open, demo_complete, pricing_view, form_start, form_submit, verified_signup, interview_booked. Real confirmation services must own the last two. Keep demo events separate. Use stable campaign/ad identifiers and allowlisted UTMs; honor consent, exclude existing contacts and deduplicate accepted server events.
+Suggested campaign naming: vh_c8_marketplace_delta / vh_c8_procurement_expiry. Record spend, impressions, qualified visits, evidence-pack review meetings and pilot commitments; CTR alone does not pass the experiment.
+
+READOUT
+Use experiment-readout.csv. Record source links for every milestone. Unknown is distinct from zero. Do not mark a pilot, interview, consent or qualified buyer commitment complete without evidence.

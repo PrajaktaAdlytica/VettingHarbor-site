@@ -1,0 +1,29 @@
+REFINEMENT ADDENDUM — final result: passed (local concept-preview scope).
+All27 desktop/mobile routes checked again;0 document overflow, headings/images present. Desktop public-section count equals track count. Forward/reverse scrub and Pause observed. Native subject-specific graphics replace reused inner-page raster heroes; two new unique illustrations. Hero crop, identity/issuer overlap, dark pricing contrast and button icons corrected and recaptured. Final build and all9 tests pass. Refined local form success explicitly confirms nothing was sent. Current evidence is in refinement route JSONs, screenshots/refinement and design-qa.md. Initial checks below remain relevant to unchanged demo behavior.
+
+VETTING HARBOR — LOCAL WEBSITE / DEMO QA
+10 Oct 2026. Scope: research-stage concept website and fixture-only product preview.
+
+PASSED
+• Production Vite build; static output dist/client. 52 modules; JS498.49KB /160.36KB gzip, CSS111.32KB /21.75KB gzip. First hero WebP143KB; other three79/85/119KB. Licensed Latin webfonts176KB total. Original image/font masters excluded from public build.
+• Nine automated checks: five event receiver tests and four static routing/packaging tests. Zero failures. Receiver tests cover unexpected-field stripping, preview isolation, confirmation rejection, durable dedupe and retry after failed storage.
+• Browser render checks for all27 public routes at1440×1000 and390×844: no document horizontal overflow, missing loaded images or absent page heading. Separate tablet768×600 home check. JSON evidence accompanies this file.
+• Desktop and mobile navigation, Escape dismissal, accessible named controls, visible focus; queue blocked filter2, empty search state and clear; source CP-MAN-13 inspector; local next action; report sections and labeled browser download.
+• Clearpath v1.2 read:tickets vs v1.3 added write:contacts; evidence age9days at fixed sample clock; expiry and revocation separate from version change; reset restores10fixtures and local states; dictionary and unseeded-record boundaries visible.
+• Public scroll progression forward/reverse, direct selectable steps, Skip; Pause disables smoothing/reveals/parallax and removes sticky chapter length. Mobile uses stacked native layout and buttons.
+• Five required form errors and first-invalid-field focus. Local-only synthetic draft success on desktop/mobile; success heading receives focus and is visible after form shrink. Details do not leave client. No signup or booking claimed.
+• Consent off by default. Opt-in creates one current-page preview event. Revocation clears in-memory events. Synthetic and public-preview event contexts distinct; no client network analytics or fixture calls.
+• Fresh routed browser checks after fixes have no console errors or warnings since16:00UTC. Earlier missing GSAP target warnings were corrected with selector guards.
+• Source and final browser render visually compared together: hero full view and type/CTA detail, offers panorama, governance chapter. Final design-qa.md records fixes, normalization and accepted adaptations.
+
+FIXES MADE
+Mobile resize animation overflow; mobile hero crop losing report station; undersized hero headline/CTA; broad paragraph styles affecting eyebrows; too-dark multiply blend on illustrations; missing GSAP targets on inner routes; form confirmation outside viewport after form shrank. Final captures reflect corrections.
+
+ACCESSIBILITY / PERFORMANCE LIMITS
+This is a manual review with responsive browser evidence, not a WCAG certification or Lighthouse score. Functional colors and state labels were reviewed, images have meaningful alt text, keyboard controls and error relationships are implemented. OS reduced-motion rules are implemented; the OS flag itself was not changed during testing. Pause was exercised directly. No representative real-device network or assistive-technology audit was performed. The demo queue intentionally has an internally scrollable table on mobile; the whole document does not overflow.
+
+RELEASE SETUP STILL REQUIRED
+Real operator/privacy contact and applicable retention policy; lead delivery and any required double opt-in; identity provider if real accounts are needed; production consent/analytics integration and rate limiting; approved GitHub/Vercel project, real origin/social metadata and domain/DNS; brand/domain legal clearance. The optional server receiver is inactive and has not been integrated with a real Redis store or Vercel host. No deployment or field validation has occurred.
+
+REAL DEMAND IS A SEPARATE EXPERIMENT
+Named criteria, consenting publishers, accepted evidence use, independent review governance and marketplace/purchase-gate commitment remain unvalidated. All marketing prices are test hypotheses. See EXPERIMENT.txt and the readout/tracking templates.

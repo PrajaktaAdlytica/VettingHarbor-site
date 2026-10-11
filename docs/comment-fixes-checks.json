@@ -1,0 +1,29 @@
+[
+  {
+    "footerArrow": "20px",
+    "hero": "rgb(248, 240, 228)",
+    "overflow": 0,
+    "oversizeButtonIcons": 0,
+    "stamp": "matrix(1, 0, 0, 1, -14, 22)",
+    "strip": "matrix(1, 0, 0, 1, 0, 17.9445)",
+    "width": 1440
+  },
+  {
+    "footerArrow": "20px",
+    "hero": "rgb(248, 240, 228)",
+    "overflow": 0,
+    "oversizeButtonIcons": 0,
+    "stamp": "none",
+    "strip": "none",
+    "width": 390
+  },
+  {
+    "footerArrow": "20px",
+    "hero": "rgb(248, 240, 228)",
+    "overflow": 0,
+    "oversizeButtonIcons": 0,
+    "stamp": "matrix(1, 0, 0, 1, -14, 22)",
+    "strip": "matrix(1, 0, 0, 1, 0, 30)",
+    "width": 775
+  }
+]

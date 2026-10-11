@@ -1,0 +1,20 @@
+{
+  "name": "Vetting Harbor \u2014 concept preview",
+  "short_name": "Vetting Harbor",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#4B252B",
+  "background_color": "#F8F3E8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

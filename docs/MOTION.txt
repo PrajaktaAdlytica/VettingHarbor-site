@@ -1,0 +1,18 @@
+HARBOR ATLAS / REFINED MOTION MAP
+
+Every top-level public section: reversible2px chapter rail follows section progress (top90% to bottom30%). Desktop headings travel12→−12px; native pieces/cards/steps scrub in alternating directions with22/30/38px travel plus small stagger. Reader-controlled movement; entrances do not dim content.
+Home hero: the user's supplied eight-second harbor camera-pullback video plays once, then holds its final frame as the persistent hero backdrop. Vetting Harbor headline, sample-pack CTA, synthetic-data label and version strip reveal after playback. A visible Skip intro control reveals the hero immediately; reduced-motion visitors see the finished state immediately. A short data-load failsafe avoids leaving hero content hidden when media cannot load. Completion is remembered for the browser tab's session.
+Problem: synthetic scope-count chart and permission table; fixture counts, no trust scores.
+Version story: sticky six-step sequence with reverse progression, manual buttons and Skip. Mobile/short screens use normal flow.
+Offers: panorama shifts; scroll selects each module; hover/click/keyboard alternatives and all links remain visible.
+Buyers: native marketplace/procurement lanes scrub independently.
+Process: sequential numbered human-review steps on oxblood surface.
+Governance: Home retains unique source-book illustration; dedicated Independence uses native responsibility diagram.
+Lifecycle: state-card scrub plus explicit changed/expired/revoked controls; no conflated automatic states.
+Pricing: scroll-linked cards and distinct hypothesis bridge; no checkout.
+Pilot: graphic/panel movement; fields native and ready-state focus retained.
+FAQ: native disclosures with small motion; layout refresh on toggles.
+Inner pages: subject-specific VisualStage; connected workflow draws its SVG path; source/role/field/criteria figures scrub independently. About and Sandbox have separate original art.
+
+Lenis smooths wheel input; native touch/keyboard remain. GSAP context, media queries, ticker, tracks and listeners clean up on route/Pause. Pause removes smoothing, scrub/reveal/parallax and sticky story height. OS reduced-motion gives still content. Mobile omits heavy parallax/piece movement, retains small section rail and manual controls. Navigation/footer stay stable.
+QA: all27 desktop routes have matching section/track counts. Buyer progress0.548197→0.993065→0.65534 on reverse and translation changes observed. Pause gives0tracks and normal-flow sticky position. OS flag not changed during QA.

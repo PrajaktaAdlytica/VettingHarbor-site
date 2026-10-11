@@ -1,0 +1,43 @@
+APPROVED BRAND
+Open Register = selected logo option2, from the approved local brand kit. SVG wordmark glyphs are outlined. Favicon/ICO/apple-touch/manifest derive from the same mark. This is a proposed brand, not trademark-cleared.
+
+ORIGINAL GENERATED ILLUSTRATIONS
+Built-in ImageGen, with the user's exact Harbor Atlas image as style reference:
+hero-atlas.webp: 1536x1024, tactile identity/scope/tests/report route; consumer About page. Home now uses the user's supplied harbor intro video.
+version-folios.webp: 1200x900, v1.2/v1.3 manifestations; consumer Home version-story chapter only.
+module-atlas.webp: 1800x800, five distinct station panorama; consumer Home offers chapter only.
+open-report.webp: 1200x900, report/harbor print and source tabs; consumer Home governance chapter only.
+All are concept illustrations with synthetic-data labeling, not screenshots of an operating product. Master PNGs are preserved in source-assets/illustrations.
+
+BROWSER CAPTURES
+screenshots/*.jpg were captured from actual local React renders in the Codex in-app browser. Desktop CSS viewport1440x1000; mobile390x844; devicePixelRatio1. Some mobile captures use fullPage to preserve the complete flow. Comparison PNGs combine source/reference and actual capture ONLY for QA and are named comparison; they are not passed off as product screenshots.
+
+LICENSED ASSETS
+Instrument Sans and Newsreader: SIL Open Font License notices in public/assets/fonts. Original source fonts retained; Latin web subsets preserve current English/punctuation/arrow glyphs.
+UI icons: pinned Lucide assets from the approved kit; license and source record in public/assets/icons.
+Footer LinkedIn and Crunchbase marks: official source assets from the approved kit. Inactive states because no company profile URLs were supplied. No profiles were created.
+Vendor names are factual comparators, not endorsement marks. No copied customer quotes, competitor dashboard images or logos appear in the product story.
+
+REFINEMENT ASSETS — BUILT-IN IMAGEGEN MODE
+Intent: new original images, generated separately with built-in image_gen, opaque background. No CLI fallback. Outputs inspected and copied into this project; consumers do not rely on default generated-image paths.
+
+Decision harbor:
+Master: source-assets/illustrations/decision-harbor.png
+Published: public/assets/decision-harbor.webp (1400×933)
+Unique consumer: /about
+Original output: /Users/prajaktagaikwad/.codex/generated_images/01a12616-a264-7e00-9e91-21a67e4fca96/exec-c997abab-55ef-4433-b606-e1253620dc67.png
+Prompt set (condensed): Original premium editorial3D miniature architectural harbor. Three distinct terracotta, oxblood and sky decision gates connected by a curving sage route above petrol water; crafted ceramic/wood, fine greens, cinematic side light. Distinct decision responsibilities. No books, documents, logos, people, seals, scores or text. Landscape3:2. Accepted output has a forested mountain harbor setting; conceptual artwork, not a real photograph.
+
+Sandbox boundary:
+Master: source-assets/illustrations/sandbox-boundary.png
+Published: public/assets/sandbox-boundary.webp (1400×933)
+Unique consumer: /products/sandbox-tests. Products compact visual uses native protocol matrix instead.
+Original output: /Users/prajaktagaikwad/.codex/generated_images/01a12616-a264-7e00-9e91-21a67e4fca96/exec-cc745e91-9904-455c-860b-b00d953e0fa5.png
+Prompt set (condensed): Original premium editorial3D tiny test environment under a clear fluted glass bell. Abstract clay/lilac agent blocks and ticket terminal follow a green path. Amber action outside the test boundary with a deliberate gap means untested scope, not unsafe behavior. Plum background, violet/warm rim light, tactile materials. No documents, text, logos, locks, scores or checkmarks. Landscape3:2.
+
+USER-SUPPLIED HARBOR INTRO VIDEO
+Source supplied by the user: Animate_harbor_with_camera_pullback_20261011002052.mp4. The original clip is copied without re-encoding to public/assets/harbor-intro.mp4 (8 seconds, 1280x720). It plays once behind the Home hero, then remains visible on its final frame. public/assets/harbor-intro-poster.jpg is a 1280x720 still extracted from the source clip at 7.96 seconds for the poster/fallback and for visits after the one-pass intro has completed. The clip is user's supplied media, not a product screenshot or a live app integration.
+
+Native visuals: original HTML/SVG in src/Visuals.jsx: permission/scope tables, dossier, protocol matrix, review slip, change timeline, unsent notification, workbench, responsibility diagram, connected workflow, listing gate, purchase worksheet and pilot criteria. Licensed Lucide glyphs retained. These are real semantic UI, not generated dashboard images.
+
+Final refined captures: screenshots/refinement/desktop-*-v2.jpg1440×1000; mobile-*-v2.jpg390px full-page from390×844 viewport. Home mobile hero is separate390×844. comparison-home-v2.png and comparison-platform-v2.png are labeled before/after diagnostics. All44 gallery captures indexed in screenshot-shot-list.csv. Earlier intermediate home-after/sandbox-after are process evidence, not final gallery views.

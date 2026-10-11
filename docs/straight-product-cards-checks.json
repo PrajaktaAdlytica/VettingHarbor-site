@@ -1,0 +1,108 @@
+[
+  {
+    "path": "/products/publisher-identity",
+    "cards": [
+      {
+        "class": "visual-card identity-main",
+        "transform": "matrix(1, 0, 0, 1, 0, -5)"
+      },
+      {
+        "class": "visual-card identity-note",
+        "transform": "matrix(1, 0, 0, 1, 0, 21.0365)"
+      }
+    ],
+    "overflow": 0,
+    "width": 1440
+  },
+  {
+    "path": "/products/review-attestation",
+    "cards": [
+      {
+        "class": "visual-card review-slip",
+        "transform": "matrix(1, 0, 0, 1, 0, -5)"
+      },
+      {
+        "class": "stamp-version",
+        "transform": "none"
+      }
+    ],
+    "overflow": 0,
+    "width": 1440
+  },
+  {
+    "path": "/products",
+    "cards": [
+      {
+        "class": "visual-card identity-main",
+        "transform": "matrix(1, 0, 0, 1, -14, 22)"
+      },
+      {
+        "class": "visual-card identity-note",
+        "transform": "matrix(1, 0, 0, 1, 14, 34)"
+      },
+      {
+        "class": "visual-card review-slip",
+        "transform": "matrix(1, 0, 0, 1, 14, 22)"
+      },
+      {
+        "class": "stamp-version",
+        "transform": "none"
+      }
+    ],
+    "overflow": 0,
+    "width": 1440
+  },
+  {
+    "path": "/products/publisher-identity",
+    "cards": [
+      {
+        "class": "visual-card identity-main",
+        "transform": "none"
+      },
+      {
+        "class": "visual-card identity-note",
+        "transform": "none"
+      }
+    ],
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "path": "/products/review-attestation",
+    "cards": [
+      {
+        "class": "visual-card review-slip",
+        "transform": "none"
+      },
+      {
+        "class": "stamp-version",
+        "transform": "none"
+      }
+    ],
+    "overflow": 0,
+    "width": 390
+  },
+  {
+    "path": "/products",
+    "cards": [
+      {
+        "class": "visual-card identity-main",
+        "transform": "none"
+      },
+      {
+        "class": "visual-card identity-note",
+        "transform": "none"
+      },
+      {
+        "class": "visual-card review-slip",
+        "transform": "none"
+      },
+      {
+        "class": "stamp-version",
+        "transform": "none"
+      }
+    ],
+    "overflow": 0,
+    "width": 390
+  }
+]

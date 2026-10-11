@@ -1,0 +1,245 @@
+[
+  {
+    "broken": [],
+    "h1": "See what changed.\nDecide what’s next.",
+    "overflow": 0,
+    "path": "/",
+    "textOverflow": [],
+    "visual": "delta",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Let’s test the\nevidence in context.",
+    "overflow": 0,
+    "path": "/pilot",
+    "textOverflow": [],
+    "visual": "pilot",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Five questions.\nOne evidence record.",
+    "overflow": 0,
+    "path": "/products",
+    "textOverflow": [],
+    "visual": "module-map",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Review Desk",
+    "overflow": 0,
+    "path": "/products/publisher-identity",
+    "textOverflow": [],
+    "visual": "publisher-identity",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Review Review",
+    "overflow": 0,
+    "path": "/products/permission-manifest",
+    "textOverflow": [],
+    "visual": "permission-manifest",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Review Proof",
+    "overflow": 0,
+    "path": "/products/sandbox-tests",
+    "textOverflow": [],
+    "visual": "sandbox-tests",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Review Signal",
+    "overflow": 0,
+    "path": "/products/review-attestation",
+    "textOverflow": [],
+    "visual": "review-attestation",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Review Report",
+    "overflow": 0,
+    "path": "/products/change-monitoring",
+    "textOverflow": [],
+    "visual": "change-monitoring",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "A listing is a starting point.\nThe version is the question.\n",
+    "overflow": 0,
+    "path": "/why-version-evidence",
+    "textOverflow": [],
+    "visual": "delta",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "One record.\nA traceable decision.\n",
+    "overflow": 0,
+    "path": "/platform",
+    "textOverflow": [],
+    "visual": "workbench",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "From consented sources\nto an inspectable pack.\n",
+    "overflow": 0,
+    "path": "/how-it-works",
+    "textOverflow": [],
+    "visual": "workflow",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Different gates.\nThe same need for context.",
+    "overflow": 0,
+    "path": "/solutions",
+    "textOverflow": [],
+    "visual": "gates",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Evidence belongs\ninside the decision flow.\n",
+    "overflow": 0,
+    "path": "/integrations",
+    "textOverflow": [],
+    "visual": "ecosystem",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Bring the evidence\nto the listing and install flow.\n",
+    "overflow": 0,
+    "path": "/solutions/marketplaces",
+    "textOverflow": [],
+    "visual": "listing",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "See the scope\nbefore the purchase gate.\n",
+    "overflow": 0,
+    "path": "/solutions/procurement",
+    "textOverflow": [],
+    "visual": "purchase",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "A focused study.\nA useful commitment.",
+    "overflow": 0,
+    "path": "/pilot-pricing",
+    "textOverflow": [],
+    "visual": "pricing",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Every finding needs\na source and a boundary.\n",
+    "overflow": 0,
+    "path": "/evidence-standard",
+    "textOverflow": [],
+    "visual": "schema",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Evidence needs\nroom to disagree.\n",
+    "overflow": 0,
+    "path": "/independence",
+    "textOverflow": [],
+    "visual": "governance",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "The limits belong\nnext to the findings.\n",
+    "overflow": 0,
+    "path": "/review-limits",
+    "textOverflow": [],
+    "visual": "boundary",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "The evidence.\nAnd its edges.",
+    "overflow": 0,
+    "path": "/sample-evidence-pack",
+    "textOverflow": [],
+    "visual": "report",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Sources before slogans.",
+    "overflow": 0,
+    "path": "/resources",
+    "textOverflow": [],
+    "visual": "sources",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "The next proof\nis a buyer commitment.\n",
+    "overflow": 0,
+    "path": "/results",
+    "textOverflow": [],
+    "visual": "experiment",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "A more open\nagent economy.\n",
+    "overflow": 0,
+    "path": "/about",
+    "textOverflow": [],
+    "visual": "harbor",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "A specific question\nis a good beginning.",
+    "overflow": 0,
+    "path": "/contact",
+    "textOverflow": [],
+    "visual": "contact",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Your data in this preview.",
+    "overflow": 0,
+    "path": "/privacy",
+    "textOverflow": [],
+    "visual": "privacy",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "A bounded concept preview.",
+    "overflow": 0,
+    "path": "/terms",
+    "textOverflow": [],
+    "visual": "terms",
+    "width": 390
+  },
+  {
+    "broken": [],
+    "h1": "Take a seat\nat the review desk.",
+    "overflow": 0,
+    "path": "/sign-in",
+    "textOverflow": [],
+    "visual": "access",
+    "width": 390
+  }
+]

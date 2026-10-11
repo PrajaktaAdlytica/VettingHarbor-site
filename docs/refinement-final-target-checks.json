@@ -1,0 +1,74 @@
+[
+  {
+    "path": "/",
+    "broken": [],
+    "heading": "See what changed.Decide what’s next.",
+    "overflow": 0,
+    "sections": 11,
+    "tracks": 11,
+    "width": 1440
+  },
+  {
+    "path": "/products/publisher-identity",
+    "broken": [],
+    "heading": "Review Desk",
+    "overflow": 0,
+    "sections": 5,
+    "tracks": 5,
+    "width": 1440
+  },
+  {
+    "path": "/products/review-attestation",
+    "broken": [],
+    "heading": "Review Signal",
+    "overflow": 0,
+    "sections": 5,
+    "tracks": 5,
+    "width": 1440
+  },
+  {
+    "path": "/pilot-pricing",
+    "broken": [],
+    "heading": "A focused study.A useful commitment.",
+    "overflow": 0,
+    "sections": 1,
+    "tracks": 1,
+    "width": 1440
+  },
+  {
+    "path": "/",
+    "broken": [],
+    "heading": "See what changed.Decide what’s next.",
+    "overflow": 0,
+    "sections": 11,
+    "tracks": 11,
+    "width": 390
+  },
+  {
+    "path": "/products/publisher-identity",
+    "broken": [],
+    "heading": "Review Desk",
+    "overflow": 0,
+    "sections": 5,
+    "tracks": 5,
+    "width": 390
+  },
+  {
+    "path": "/products/review-attestation",
+    "broken": [],
+    "heading": "Review Signal",
+    "overflow": 0,
+    "sections": 5,
+    "tracks": 5,
+    "width": 390
+  },
+  {
+    "path": "/pilot-pricing",
+    "broken": [],
+    "heading": "A focused study.A useful commitment.",
+    "overflow": 0,
+    "sections": 1,
+    "tracks": 1,
+    "width": 390
+  }
+]

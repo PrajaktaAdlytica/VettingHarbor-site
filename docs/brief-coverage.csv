@@ -1,0 +1,37 @@
+Brief requirement,Implementation location,Status,Evidence / boundary
+Chosen Harbor Atlas direction + logo 2,Home; all routes,Verified,desktop-hero.jpg / mobile-hero.jpg
+"Logo, favicon, font licenses and semantic tokens",public/assets/brand; styles.css,Built,Open Register SVG/ICO/PNG and licensed Latin webfonts
+Five distinct sellable offers,Home #offers; /products; five module routes; menu/footer/form,Verified,Desktop/mobile route checks; desktop-five-offers.jpg
+Publisher identity and ownership,/products/publisher-identity; demo overview,Built,Sample status explicit; no real verification claim
+Version-specific permission manifest,/products/permission-manifest; demo diff,Verified,v1.2 read:tickets → v1.3 adds write:contacts
+Sandbox behavioral tests and reproducibility,/products/sandbox-tests; demo tests,Built,Protocol/environment/input/outcome/date/limits; not executed
+"Signed attestation, expiry and revocation",/products/review-attestation; demo lifecycle/report,Verified,Separate sample presets; no real signing
+Monitoring and buyer notification,/products/change-monitoring; demo notifications,Built,"Local preview only, no sends or integration"
+Both buyer types,/solutions/marketplaces; /solutions/procurement; Home buyers,Verified,Two distinct workflows and access/criteria requirements
+Proposed independence and seller-funded conflict policy,/independence; /evidence-standard; report issuer,Built,Funding/recusal/no favorable-result payment/buyer authority
+Incumbent competition and ecosystem access,/why-version-evidence; /integrations; /resources,Built,Official Salesforce/Microsoft source links; no endorsement
+"Mission, vision, concept status, unvalidated demand",/about; footer; FAQ; /results,Built,"No fake customer logos, ROI, revenue or certifications"
+Ten consistent fictional records,/demo queue,Verified,"4 Pending,2 Blocked,2 Completed,2 Rejected; named owners/dates/actions"
+Honest blocked/rejected edge cases,/demo/reviews/CT-017/overview; NA-004; SF-012; OW-009,Built,"Inconclusive test, missing consent, conflicting docs, out-of-scope"
+Persistent demo boundary on views/captures/exports,Workspace ribbon; public illustrations; report export,Verified,Desktop/mobile screenshots and exported text carry labels
+Reset and data dictionary,Demo Reset; /demo/dictionary,Verified,Reset restores10 records and clears local controls/notes
+Source evidence pane and reviewer action,Demo record overview/source buttons,Verified,Opened CP-MAN-13 and recorded internal next step
+Read-only/demo fixture isolation,src/Demo.jsx; utils.js,Verified,"No fetch, real send, payment or agent call in client"
+Sample report explorer and export,/sample-evidence-pack; demo/report,Verified,Browser download checked: DEMO-clearpath-evidence-pack.txt
+Hypothesis pricing,Home pricing; /pilot-pricing,Verified,$2500 listing study; $1500/month marketplace pilot; no checkout
+Pilot/contact form qualification and consent,Home; /pilot; /contact,Verified,"Required errors/focus, role,module,prompt,optional interview,local success"
+"Real lead delivery, verified signups, interview bookings",Not connected,Configuration needed,Verified operator/contact/retention/delivery/double-opt-in not supplied
+Minimal data / privacy / deletion route,/privacy; preferences; local draft description,Verified,Form memory-only; consent revoke clears events; downloads user-controlled
+"Analytics events, UTMs and segregation",src/utils.js; privacy panel,Verified,Optional tab-memory events; synthetic-demo / public-preview distinct
+Server-side event dedupe,server/event-receiver.mjs; api/events.js,Tested adapter; inactive,5 unit tests; durable Redis claim required to enable
+Server-confirmed signup/booking events,Server receiver rejects untrusted confirmations,Configuration needed,Cannot mark milestones without real trusted services
+Distinct scroll sequence and controls,Home comparison/offers/reveals/parallax; all public pages,Verified,"GSAP+Lenis, reverse progression, manual steps, Pause,Skip"
+Mobile/short-screen/reduced-motion fallback,styles.css; Motion effect,Verified in mobile and Pause mode,Native stacked layouts; media rule for OS reduced-motion; OS flag not changed in QA
+Accessible labels/focus/contrast/alt text,All routes/forms; brand tokens,Reviewed,"Error focus, Escape menu, semantic tabs, high-contrast functional colors"
+Desktop1440/mobile390 captures for core flows,screenshots/,Captured,"Hero,public workflow,pricing,demo queue/record/diff/report,form success"
+Runbook/deployment configuration,README.txt; vercel.json; docs/,Built,"Local run/build,SPA rewrites,optional receiver,release gates"
+"Experiment, outreach and ad test plan",docs/EXPERIMENT.txt; experiment-readout.csv; tracking-fields.csv,Prepared; not executed,Two consenting agents; real evidence-use commitment; capped ads only after access
+GitHub/Vercel/domain launch,Not published,Configuration needed,No intended repo/project/domain ownership or DNS supplied; no deployment claim
+Brand/domain/trademark clearance,Provisional,Unverified,"No registration purchase, legal clearance or availability assertion"
+Distinct backgrounds/visuals — latest refinement,refinement.css; Visuals.jsx; all27public routes,Verified,"Two unique new illustrations, original scenes once each on Home; native evidence graphics and capture audit"
+Scroll-linked behavior beyond entrances,Motion; compare/offers; native pieces/connector,Verified,Every public section has reversible track; buyer reverse progression and Pause observed; mobile movement reduced

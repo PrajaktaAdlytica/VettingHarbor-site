@@ -1,0 +1,23 @@
+VETTING HARBOR — ASSET PROVENANCE / 10 OCTOBER 2026
+
+Original concepts and assets:
+Three logo study boards generated for this project; vector symbols manually redrawn as editable drafts. Wordmark glyphs outlined from the fonts below. These are proposals, not approved trademarks. Generated lettering is not exactly reproduced. No trademark, domain or company-name clearance claimed.
+Original diagram SVGs, CSS/JSON tokens, component specimens, and copy authored for this project.
+
+Fonts (downloaded from official Google Fonts repository):
+https://github.com/google/fonts/tree/main/ofl/instrumentsans
+https://github.com/google/fonts/tree/main/ofl/newsreader
+Both under SIL Open Font License 1.1. Full notices are in assets/fonts/*-OFL.txt.
+Unmodified variable TTF originals and WOFF2 format conversions supplied. No glyph design changes to distributed font software. Retain license files when redistributing.
+
+Lucide supporting UI icons:
+https://lucide.dev/license
+https://github.com/lucide-icons/lucide
+Pinned commit and names in assets/icons/sources.json. Full ISC and Feather-derived MIT notices in assets/icons/LUCIDE-LICENSE.txt. No Lucide icon used as the company logo.
+
+Social trademarks:
+LinkedIn icon extracted from the official inline symbol at https://brand.linkedin.com/in-logo; geometry, viewBox and blue/white colors preserved. This packaging does not grant additional trademark rights. Use according to official brand rules and only for actual relevant profile links.
+Crunchbase icon is the official website webclip asset referenced by https://about.crunchbase.com/press, unmodified. Exact asset URL in sources.json. Trademark remains Crunchbase's; this is not a license or endorsement. Confirm applicable use before publication.
+No company profile URLs have been supplied. Footer social specimens are inactive text/icon groups, not fake links.
+
+Reference brands: linked for study only. No logos copied into the asset set. No claimed relationship or endorsement.
