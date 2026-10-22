@@ -1,0 +1,22 @@
+# Hostinger static hosting: keep React deep links working on refresh.
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # This static deployment has no API runtime.
+  RewriteRule ^api(?:/|$) - [R=404,L]
+
+  # Missing assets must return 404, not the React HTML document.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^assets(?:/|$) - [R=404,L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+<FilesMatch "^\.">
+  Require all denied
+</FilesMatch>

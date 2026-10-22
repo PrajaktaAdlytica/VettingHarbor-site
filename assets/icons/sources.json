@@ -1,0 +1,49 @@
+{
+  "lucide": {
+    "sha": "70562c1ee1c4fdcf736fe97bc893fb8511927934",
+    "source": "https://github.com/lucide-icons/lucide",
+    "icons": [
+      "triangle-alert",
+      "search",
+      "chevron-down",
+      "panel-right-open",
+      "files",
+      "lock-keyhole",
+      "file-text",
+      "x",
+      "chevron-right",
+      "arrow-right",
+      "mail",
+      "download",
+      "git-branch",
+      "funnel",
+      "eye-off",
+      "plus",
+      "check",
+      "rotate-ccw",
+      "info",
+      "play",
+      "arrow-up-right",
+      "user-round",
+      "clock",
+      "circle-x",
+      "eye",
+      "external-link",
+      "pause",
+      "calendar-clock",
+      "menu",
+      "flask-conical",
+      "minus"
+    ]
+  },
+  "linkedin": {
+    "source": "https://brand.linkedin.com/in-logo",
+    "method": "Official inline linkedin-logo-icon symbol, geometry and colors preserved"
+  },
+  "crunchbase": {
+    "source": "https://cdn.prod.website-files.com/687e6d0359c517be389ea464/69257c9295545c9acddcaa0d_cb-webclip-256x256.png",
+    "sourcePage": "https://about.crunchbase.com/press",
+    "method": "Official website webclip, unchanged"
+  },
+  "profileLinks": "Not supplied; inactive in specimen"
+}

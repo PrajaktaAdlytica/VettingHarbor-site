@@ -1,0 +1,104 @@
+{
+  "label": "DEMO \u2014 SYNTHETIC DATA / CONCEPT PREVIEW",
+  "clock": "2026-10-10T12:00:00Z",
+  "records": [
+    {
+      "id": "CP-013",
+      "publisher": "Clearpath Agents",
+      "version": "1.3",
+      "workflowStatus": "Pending",
+      "owner": "Mira Sol",
+      "updatedLabel": "10 Oct"
+    },
+    {
+      "id": "NA-004",
+      "publisher": "Northline Assist",
+      "version": "0.4",
+      "workflowStatus": "Blocked",
+      "owner": "Ivo Lane",
+      "updatedLabel": "10 Oct"
+    },
+    {
+      "id": "RC-021",
+      "publisher": "Rowan Context",
+      "version": "2.1",
+      "workflowStatus": "Completed",
+      "owner": "Lea Moss",
+      "updatedLabel": "09 Oct"
+    },
+    {
+      "id": "DP-008",
+      "publisher": "Dockpath Tools",
+      "version": "0.8",
+      "workflowStatus": "Pending",
+      "owner": "Mira Sol",
+      "updatedLabel": "09 Oct"
+    },
+    {
+      "id": "SF-012",
+      "publisher": "Sable Forms",
+      "version": "1.2",
+      "workflowStatus": "Rejected",
+      "owner": "Ivo Lane",
+      "updatedLabel": "08 Oct"
+    },
+    {
+      "id": "AW-031",
+      "publisher": "Alder Workflow",
+      "version": "3.1",
+      "workflowStatus": "Pending",
+      "owner": "Lea Moss",
+      "updatedLabel": "08 Oct"
+    },
+    {
+      "id": "FN-006",
+      "publisher": "Fern Notes",
+      "version": "0.6",
+      "workflowStatus": "Completed",
+      "owner": "Mira Sol",
+      "updatedLabel": "07 Oct"
+    },
+    {
+      "id": "CT-017",
+      "publisher": "Cedar Tasks",
+      "version": "1.7",
+      "workflowStatus": "Blocked",
+      "owner": "Ivo Lane",
+      "updatedLabel": "07 Oct"
+    },
+    {
+      "id": "OW-009",
+      "publisher": "Orchard Writes",
+      "version": "0.9",
+      "workflowStatus": "Rejected",
+      "owner": "Lea Moss",
+      "updatedLabel": "06 Oct"
+    },
+    {
+      "id": "PR-014",
+      "publisher": "Pine Relay",
+      "version": "1.4",
+      "workflowStatus": "Pending",
+      "owner": "Mira Sol",
+      "updatedLabel": "06 Oct"
+    }
+  ],
+  "clearpath": {
+    "reviewedVersion": "1.2",
+    "currentVersion": "1.3",
+    "reviewedScopes": [
+      "read:tickets"
+    ],
+    "currentScopes": [
+      "read:tickets",
+      "write:contacts"
+    ],
+    "reviewDate": "2026-10-01",
+    "addedScopeTestStatus": "Not tested",
+    "sourceId": "CP-MAN-13"
+  },
+  "edges": {
+    "NA-004": "Publisher consent missing",
+    "CT-017": "Inconclusive test; reviewer follow-up required"
+  }
+}
