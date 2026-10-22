@@ -1,0 +1,30 @@
+HOSTINGER STATIC DEPLOYMENT
+
+Source branch: main
+Hostinger deployment branch: hostinger-deploy
+Hostinger website type: Custom PHP/HTML
+Hostinger deployment directory: public_html
+
+The GitHub workflow builds and tests main, then updates hostinger-deploy with
+only the contents of dist/client. Hostinger's Advanced > Git integration
+should watch hostinger-deploy with auto-deployment enabled. It must not
+deploy main, which contains uncompiled React source files.
+
+index.html and assets/ are at the deployment branch root. public/.htaccess
+is copied into the build and provides the React routing fallback. Missing
+assets and API requests return 404. The inactive Vercel API adapter is not
+included: static hosting does not run it. Forms remain local preview drafts.
+
+To update the site: push source changes to main and wait for the GitHub
+Actions workflow "Build Hostinger website" to succeed. Confirm Hostinger
+then deploys the new hostinger-deploy commit. If Hostinger does not trigger
+automatically, use Redeploy on that branch and check the Git integration.
+
+The workflow can also be started manually from GitHub Actions > Build
+Hostinger website > Run workflow. No Hostinger password is stored in GitHub.
+
+After initial Hostinger deployment, verify HTTPS, video playback, /products,
+/sample-evidence-pack, and /demo with direct URL refreshes. Check that
+index.html is directly inside public_html, and that old source files from
+the accidental main-branch deployment are no longer publicly served.
+Do not delete the Vercel project until the Hostinger site is verified.
