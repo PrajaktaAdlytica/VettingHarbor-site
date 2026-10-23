@@ -1410,6 +1410,33 @@ textarea {
   font-size: 11px;
   padding: 4px 0;
 }
+.company-address {
+  margin-top: 18px;
+  font-size: 11px;
+  font-style: normal;
+  line-height: 1.65;
+}
+.funding-announcement {
+  display: flex;
+  align-items: baseline;
+  gap: 18px;
+  padding: 16px 64px;
+  background: #dce9df;
+  color: #203b32;
+  font-size: 13px;
+}
+.funding-announcement span {
+  flex: none;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+.funding-announcement p { margin: 0; }
+@media (max-width: 649px) {
+  .funding-announcement { display: block; padding: 14px 20px; }
+  .funding-announcement p { margin-top: 5px; }
+}
 .socials {
   display: grid;
   gap: 8px;

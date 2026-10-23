@@ -441,6 +441,10 @@ export const pages = {
         "This is Concept 8, a research-stage prototype. No real customers, live integrations, accepted pricing, operating review service or revenue has been demonstrated. The proposed brand and domain still need registration and trademark review.",
       ],
       [
+        "Company address",
+        "224/22 Pham Van Hai Street, Ward 5, Tan Binh District, Ho Chi Minh City 790935, Vietnam.",
+      ],
+      [
         "What we need to learn",
         "Can buyers agree on review criteria? Can a marketplace embed evidence in its listing or install flow? Can an assessor preserve independence? These are the questions the pilot is designed to test.",
       ],

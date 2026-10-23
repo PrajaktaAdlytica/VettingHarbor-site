@@ -332,6 +332,12 @@ function Footer() {
               {t}
             </Link>
           ))}
+          <address className="company-address">
+            224/22 Pham Van Hai Street<br />
+            Ward 5, Tan Binh District<br />
+            Ho Chi Minh City 790935<br />
+            Vietnam
+          </address>
           <div className="socials">
             <span aria-label="LinkedIn company profile not yet published">
               <img
@@ -989,6 +995,10 @@ function Home() {
           <span aria-hidden="true">↓</span>
         </a>
       </section>
+      <aside className="funding-announcement" aria-label="Funding announcement">
+        <span>Company update</span>
+        <p>Vetting Harbor has secured venture capital funding. Investor and amount to be announced.</p>
+      </aside>
       <section className="hero" id="home-hero" ref={originalHeroRef}>
         <div className="hero-inner">
           <div className="hero-copy">
